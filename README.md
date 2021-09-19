@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nandhagopan Ramesh
+- 👀 I’m interested in Designing and learning new languages 
+- 🌱 I’m currently studying Computer Science at the SRM University.
+- HIT me up with a mail to nr5743@srmist.edu.in
